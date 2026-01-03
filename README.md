@@ -53,6 +53,7 @@ Architecture microservices avec service discovery interchangeable :
 cd eureka-server
 mvn spring-boot:run
 ```
+<img width="738" height="153" alt="Screenshot 2026-01-03 173754" src="https://github.com/user-attachments/assets/a614f70d-9fb6-43bc-b389-d6798891d470" />
 
 Accéder au dashboard : http://localhost:8761
 
@@ -76,6 +77,7 @@ Accéder au dashboard : http://localhost:8500
 # Configuration avec Consul active
 mvn spring-boot:run -Dspring.profiles.active=consul
 ```
+<img width="467" height="307" alt="Screenshot 2026-01-03 173845" src="https://github.com/user-attachments/assets/68d567b3-5b7f-4f29-81b6-8f65f02e6425" />
 
 ## 🏃 Utilisation
 
